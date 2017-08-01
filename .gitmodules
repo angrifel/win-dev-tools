@@ -4,3 +4,6 @@
 [submodule "conemu"]
 	path = conemu
 	url = ../win-dev-tools--conemu.git
+[submodule "putty"]
+	path = putty
+	url = ../win-dev-tools--putty.git
