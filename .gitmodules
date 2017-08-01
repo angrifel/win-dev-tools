@@ -1,0 +1,3 @@
+[submodule "keepass"]
+	path = keepass
+	url = ../win-dev-tools--keepass.git
