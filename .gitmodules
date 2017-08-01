@@ -1,3 +1,6 @@
 [submodule "keepass"]
 	path = keepass
 	url = ../win-dev-tools--keepass.git
+[submodule "conemu"]
+	path = conemu
+	url = ../win-dev-tools--conemu.git
